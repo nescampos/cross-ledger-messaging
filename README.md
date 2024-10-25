@@ -4,9 +4,11 @@ Messaging proposal between different Ledgers (Blockchain and non-Blockchain) to 
 
 [Idea Builder](https://ideabuilder.ibcprotocol.dev/) Template on IPFS: https://ipfs.filebase.io/ipfs/Qmbi2MuecB1WcYd8EjWBU4CCwV1yR6ArxzoxdqsQyNnaMp
 
+[Idea Builder](https://ideabuilder.ibcprotocol.dev/) Template JSON: [here](./Cross-Ledger-Messaging.json)
+
 ## Architecture
 
-
+![Architecture](./Cross-Ledger-Messaging.png)
 
 ## Description 
 For this new architecture, which allows Nolus to connect to different networks (both Blockchain and non-Blockchain), the use of **Interledger Protocol** (https://interledger.org/) is proposed. Here are the benefits for Nolus and all its components:
